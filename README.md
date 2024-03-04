@@ -4,6 +4,7 @@
 
 This project aims to utilize Generative AI for the next marketing strategy in the case of e-commerce customer segmentation.
 
+https://github.com/ahmadluay9/Generative-AI-for-Personalized-E-commerce-Customer-Segmentation/assets/123846438/a94cce23-45b0-4ebd-9706-09fe4310cfb8
 
 ## File explanation
 
