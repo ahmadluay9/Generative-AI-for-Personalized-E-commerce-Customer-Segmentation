@@ -1,5 +1,5 @@
 # Generative AI for Personalized E-commerce Customer Segmentation
-- [FastAPI Documentation](https://customer-segmentation-backend-ewh36wojna-uc.a.run.app)
+- [FastAPI Documentation](https://customer-segmentation-backend-ewh36wojna-uc.a.run.app/docs)
 - [App Demo](https://customer-segmentation-frontend-7emkch5d3q-uc.a.run.app/)
 
 This project aims to utilize Generative AI for the next marketing strategy in the case of e-commerce customer segmentation.
